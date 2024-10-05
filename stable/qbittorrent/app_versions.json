@@ -1,9 +1,9 @@
 {
-    "20.0.11": {
+    "21.0.0": {
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/qbittorrent/20.0.11",
+        "location": "/home/runner/_work/catalog/catalog/stable/qbittorrent/21.0.0",
         "last_update": "2024-05-29 12:35:14",
         "required_features": [
             "definitions/timezone",
@@ -11,8 +11,8 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "4.6.5_20.0.11",
-        "version": "20.0.11",
+        "human_version": "21.0.0_5.0.0",
+        "version": "21.0.0",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "media",
@@ -21,7 +21,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "4.6.5",
+            "appVersion": "5.0.0",
             "dependencies": [
                 {
                     "name": "common",
@@ -57,7 +57,7 @@
                 "https://hub.docker.com/r/mjmeli/qbittorrent-port-forward-gluetun-server"
             ],
             "type": "application",
-            "version": "20.0.11"
+            "version": "21.0.0"
         },
         "app_metadata": null,
         "schema": {
