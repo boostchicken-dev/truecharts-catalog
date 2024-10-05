@@ -5,7 +5,7 @@ image:
 qbitportforwardImage:
   repository: mjmeli/qbittorrent-port-forward-gluetun-server
   pullPolicy: IfNotPresent
-  tag: latest@sha256:3fde39737ffa4b1f7ea05c14b57675ca5abdc1fce16e00aeea14d9b7b0f119e1
+  tag: latest@sha256:4c8290fe6a73ce7a38de3bfdacc681f5e44f33ccacf74b762a7ac2a9f942a456
 
 securityContext:
   container:
